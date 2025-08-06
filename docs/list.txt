@@ -1,0 +1,10 @@
+Desktop
+Documents
+Downloads
+Music
+myproject
+Pictures
+Public
+snap
+Templates
+Videos
