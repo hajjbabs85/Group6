@@ -1,0 +1,2 @@
+echo "joplin_data/"
+> .gitignore
